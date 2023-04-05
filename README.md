@@ -18,7 +18,7 @@ a python discord bot generates QR code for any kind of URLs
 
 
 ### Console Output 
-![ Console Output](console_example.PNG)
+![ Console Output](console_example.png)
 
 You can always check your console to find if someone is generating a malware or scam website using your BOT. 
 > Note : Must tell your users that you are storing the QR code and link before they start using your BOT. Keep everyone's privacy secret from other users.
