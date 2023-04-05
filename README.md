@@ -11,7 +11,7 @@ a python discord bot generates QR code for any kind of URLs
 
 ## Sample 
 ### Discord Channel Input 
-> ?qr [URL]
+> ?qr [URL] \
 > example : ?qr https://github.com/87icelime
 ### Discord User Interface 
 ![ Discord outpout](qrbot_example.PNG)
