@@ -1,6 +1,6 @@
 # QR Generator Discord bot
 a python discord bot generates QR code for any kind of URLs 
-> Want to donate me? I know you wont :( !
+> :D !
 ## Begineer GUIDE 
 * Add your bot token after ``bottoken=`` in ``.env`` file. 
 * If you want to use a different storage to store the data, must change the store location to ``img.save(f"./Your_Folder/Your_Folder/{duid.hex}.png")``. Otherwise you may face some errors. 
