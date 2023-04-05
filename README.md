@@ -1,2 +1,2 @@
-# QR_DIscordBot_PY
+# Python Discord bot using qrcode
 a python discord bot will generate QR code 
