@@ -1,6 +1,6 @@
 # QR Generator Discord bot
 a python discord bot generates QR code for any kind of URLs 
-Want to donate me? <br> Ethereum Wallet : 
+<br> Want to donate me? Ethereum Wallet : 
 > 0x76bD98E5E44ECc9114684f90ad3812Db2E71e744
 ## Begineer GUIDE 
 * Add your bot token after ``bottoken=`` in ``.env`` file. 
