@@ -1,5 +1,5 @@
 # QR Generator Discord bot
-[![Hits](https://hits.sh/github.com/0xSHI/Discord-QR.svg?style=for-the-badge&label=Visitor&labelColor=b00b7c&logo=github)](https://hits.sh/github.com/0xSHI/Discord-QR/)
+[![Hits](https://hits.sh/github.com/0xSHI/Discord-QR.svg?style=for-the-badge&label=Visitor&color=010101&labelColor=b00b7c&logo=github)](https://hits.sh/github.com/0xSHI/Discord-QR/)
 
 a python discord bot generates QR code 
 <br> Want to donate me? Ethereum Wallet : 
