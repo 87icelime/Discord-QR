@@ -17,7 +17,7 @@ async def makeqrcode(interaction: discord.Interaction, url:str, bg_color:Literal
     
     img = qr.make_image(fill_color=f"{box_color or 'black'}", back_color=f"{bg_color or 'white'}")
     uid = uuid.uuid4().hex
-    img.save(f"./database/qr/{uid}.png")
-    qr_code = f"./database/qr/{uid}.png"
+    img.save(f"./qrtest/{uid}.png")
+    qr_code = f"./qrtest/{uid}.png"
     
     await interaction.response.send_message("Here is your qrcode : ",file=discord.File(qr_code))
