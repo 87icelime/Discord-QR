@@ -1,5 +1,7 @@
 # QR Generator Discord bot
-a python discord bot generates QR code for any kind of URLs 
+[![Hits](https://hits.sh/github.com/0xSHI/Discord-QR.svg?style=for-the-badge&label=Visitor&labelColor=b00b7c&logo=github)](https://hits.sh/github.com/0xSHI/Discord-QR/)
+
+a python discord bot generates QR code 
 <br> Want to donate me? Ethereum Wallet : 
 > 0x76bD98E5E44ECc9114684f90ad3812Db2E71e744
 ## Beginner GUIDE 
@@ -8,6 +10,7 @@ a python discord bot generates QR code for any kind of URLs
 * If you do not want to make a server page for you, delete ``server.py`` file and ``server()`` from ``bot.py`` 
 * Do not delete the ``qrtest`` folder, Its really necessary to run the bot and store qr images in that folder. Meantime if you are running out of host then you can delete the images stored inside the folder.
 * If you are running error while trying to run the bot, make sure you've downloaded every packages(discord, qrcode, uuid, os, dotenv)
+* For slash code example, please check slash.py
 
 
 ## Sample 
