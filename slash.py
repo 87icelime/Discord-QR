@@ -1,3 +1,5 @@
+from typing import Literal 
+
 bot = discord.Client(intents=intents)
 slash = app_commands.CommandTree(bot)
 
