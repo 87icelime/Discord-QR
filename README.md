@@ -1,5 +1,5 @@
 # QR Generator Discord bot
-[![Hits](https://hits.sh/github.com/0xSHI/Discord-QR.svg?style=for-the-badge&label=Visitor&color=010101&labelColor=b00b7c&logo=github)](https://hits.sh/github.com/0xSHI/Discord-QR/)
+[![Hits](https://hits.sh/github.com/0xSHI/Discord-QR.svg?style=for-the-badge&label=Visitor&color=010101&labelColor=b00b7c&logo=github)](https://hits.sh/github.com/w3nabil/Discord-QR/)
 
 a python discord bot generates QR code 
 <br> Want to donate me? Ethereum Wallet : 
@@ -29,5 +29,4 @@ You can always check your console to find if someone is generating a malware or 
 
 ### [Project LICENSE](LICENSE)
 
-> Feel free to open an issue if you face any issue. 
 
